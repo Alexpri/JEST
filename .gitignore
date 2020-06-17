@@ -1,0 +1,55 @@
+# Compiled output
+/tmp
+
+# IDEs and editors
+node_modules/
+.idea
+.idea/
+.idea/workspace.xml
+.vscode
+.vs
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Misc
+.npm
+.eslintcache
+.yarn-integrity
+
+# System Files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+Thumbs.db
+ehthumbs.db
+ehthumbs_vista.db
+
+# Dump file
+*.stackdump
+
+# Folder config file
+[Dd]esktop.ini
+
+# Windows shortcuts
+*.lnk
+
+
+package-lock.json
